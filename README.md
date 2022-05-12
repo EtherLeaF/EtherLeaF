@@ -3,7 +3,7 @@
 I'm **ThetaPilla.**
 
 - 🔭 I’m currently working on [NoneBot](https://github.com/nonebot) Plugins
-- 🌱 I’m currently learning Python, C++, JavaScript
+- 🌱 I’m currently learning OI, JavaScript
 - 📫 How to reach me: thetapilla@gmail.com
 
 🌟 **My Skills**  
