@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**EtherLeaF/EtherLeaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **ThetaPilla.**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [NoneBot](https://github.com/nonebot) Plugins
+- 🌱 I’m currently learning Python, C++, JavaScript
+- 📫 How to reach me: thetapilla@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **My Skills**  
+![](https://img.shields.io/badge/-C++-3e74a2?style=flat-square&logo=c%2B%2B&logoColor=fff)
+![](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=ubuntu&logoColor=fff)
+![](https://img.shields.io/badge/-Vim-339933?style=flat-square&logo=vim&logoColor=fff)
+
+🔥 **Editors**  
+![](https://img.shields.io/badge/-Pycharm-4fc08d?style=flat-square&logo=pycharm&logoColor=fff)
+![](https://img.shields.io/badge/-Clion-47A248?style=flat-square&logo=clion&logoColor=fff)
+![](https://img.shields.io/badge/-WebStorm-2d98ce?style=flat-square&logo=webstorm&logoColor=fff)
