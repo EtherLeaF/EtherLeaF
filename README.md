@@ -19,5 +19,5 @@ I'm **ThetaPilla.**
 
 💻 **IDEs I'm using**  
 ![](https://img.shields.io/badge/-PyCharm-4fc08d?style=flat-square&logo=pycharm&logoColor=fff)
-![](https://img.shields.io/badge/-Clion-47A248?style=flat-square&logo=clion&logoColor=fff)
+![](https://img.shields.io/badge/-CLion-47A248?style=flat-square&logo=clion&logoColor=fff)
 ![](https://img.shields.io/badge/-WebStorm-2d98ce?style=flat-square&logo=webstorm&logoColor=fff)
